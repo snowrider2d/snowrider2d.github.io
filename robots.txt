@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://snowrider2d.github.io/sitemap.xml
